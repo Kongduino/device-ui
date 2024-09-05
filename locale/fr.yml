@@ -1,48 +1,49 @@
 fr:
-  no new messages: ~
-  1 of 1 nodes online: ~
-  DEL: ~
-  "User name: ": ~
-  "Modem Preset: LONG FAST": ~
-  "Channel: LongFast": ~
-  "Role: Client": ~
-  "Screen Timeout: 60s": ~
-  "Screen Brightness: 60%": ~
-  "Screen Calibration: default": ~
-  "Input Control: none/none": ~
-  "Message Alert Buzzer: on": ~
-  "Language: English": ~
-  Configuration  Reset: ~
-  Reboot / Shutdown: ~
-  Group Channels: ~
-  no messages: ~
-  Settings: ~
-  Settings (advanced): ~
-  Locations Map: ~
-  no chats: ~
-  Node Options: ~
-  Short Name: ~
-  Long Name: ~
-  <unset>: ~
+  no new messages: pas de nouveaux messages
+  1 of 1 nodes online: 1 nœud / 1 en ligne
+  DEL: EFF
+  "User name: ": "Utilisateur"
+  "Modem Preset: LONG FAST": "Défault modem : LONG FAST"
+  "Channel: LongFast": "Canal : LongFast"
+  "Role: Client": "Rôle : Client"
+  "Screen Timeout: 60s": "Délai extinction écran : 60 s"
+  "Screen Brightness: 60%": "Luminosité écran : 60%"
+  "Screen Calibration: default": "Calibration écran : défaut"
+  "Input Control: none/none": "Contrôle entrée: aucun/aucun"
+  "Message Alert Buzzer: on": "Alerte sonore : activée"
+  "Language: English": "Langue : Français"
+  Configuration  Reset: Réinitialisation de la configuration
+  Reboot / Shutdown: Redémarrer / Arrêter
+  Group Channels: Canaux de groupe
+  no messages: pas de messages
+  Settings: Réglages
+  Settings (advanced): Réglages (avancés)
+  Locations Map: Carte des emplacements
+  no chats: pas de discussions
+  Node Options: Options des nœuds
+  Short Name: Nom court
+  Long Name: Nom long
+  <unset>: non défini
   LONG FAST\nLONG SLOW\nVERY LONG SLOW\nMEDIUM SLOW\nMEDIUM FAST\nSHORT SLOW\nSHORT FAST\nLONG MODERATE: ~
-  "FrequencySlot: 1 (902.0MHz)": ~
-  Client\nClient Mute\nRouter\nRouter Client\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker: ~
-  "Brightness: 60%": ~
-  "Timeout: 60s": ~
-  Mouse: ~
-  Keyboard: ~
-  Message Alert: ~
-  NodeDB Reset\nFactory Reset: ~
-  Channel Name: ~
-  Pre-shared Key: ~
-  New Message from\n: ~
-  Resynch...: ~
-  "User name: %s": ~
-  "Device Role: %s": ~
-  "Screen Calibration: %s": ~
-  done: ~
-  default: ~
-  "Region: %s": ~
-  "Modem Preset: %s": ~
-  "Channel: %s": ~
-  "Language: %s": ~
+  "FrequencySlot: 1 (902.0MHz)": "Choix Fréquence : 1 (902,0 MHz)"
+  Client\nClient Mute\nRouter\nRouter Client\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker: "Client\nClient muet\nRouteur\nRouteur Client\nRépéteur\nTracker\nCapteur\nTAK\nClient masqué\nPerdu et trouvé\nTAK Tracker
+"
+  "Brightness: 60%": "Luminosité : 60%"
+  "Timeout: 60s": "Délai d'attente : 60 s"
+  Mouse: Souris
+  Keyboard: Clavier
+  Message Alert: Message d'alerte
+  NodeDB Reset\nFactory Reset: "Réinitialisation de NodeDB\nRéinitialisation d'usine"
+  Channel Name: Nom du canal
+  Pre-shared Key: "Clef pré-partagée"
+  New Message from\n: Nouveau message de\n
+  Resynch...: Resynchronisation...
+  "User name: %s": "Utilisateur : %s"
+  "Device Role: %s": "Rôle du périphérique : %s"
+  "Screen Calibration: %s": "Calibration écran : %s"
+  done: fini
+  default: défaut
+  "Region: %s": "Région : %s"
+  "Modem Preset: %s": "Défault modem : %s"
+  "Channel: %s": "Canal : %s"
+  "Language: %s": "Langue : %s"
